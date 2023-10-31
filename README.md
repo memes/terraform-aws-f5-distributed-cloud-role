@@ -1,7 +1,9 @@
 # F5 Distributed Cloud Role Terraform module
 
+> **NOTE**: This module is no longer under active maintenance - please use the F5 community supported [modules](https://github.com/terraform-xc-cloud-community-modules) instead.
+
 ![GitHub release](https://img.shields.io/github/v/release/memes/terraform-aws-f5-distributed-cloud-role?sort=semver)
-![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![Maintenance](https://img.shields.io/maintenance/no/2023)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 This Terraform module is a helper to create a custom IAM role that has the
@@ -14,7 +16,7 @@ and [Google Cloud](https://github.com/memes/terraform-google-f5-distributed-clou
 > require assistance please join our
 > [Slack GCP channel](https://f5cloudsolutions.slack.com/messages/gcp) and ask!
 
-## Examples
+## Examples - **OBSOLETE**
 
 ### Create the custom role at the project, and assign to an existing service account
 
